@@ -1,0 +1,8 @@
+﻿                                                     -CoqLaKour-
+													 
+language : c++ sous QtSDK
+
+commentaire : Cette source a pour but d'aider les gens qui veulent mieux comprend le pathfinding. |
+              Vos impressions m'intéresse beaucoup, car ça ne fait pas longtemps que je développe en c++.
+
+lien : http://forums.mediabox.fr/wiki/tutoriaux/flashplatform/jeux/pathfinder_algorithme_astar_pratique| Mes doigt| Mon cerveau.
